@@ -19,6 +19,8 @@ https://jsonplaceholder.typicode.com
   - Wykres słupkowy (aktywność użytkowników)
   - Wykres kołowy (procent wykonanych zadań)
 
+![Zrzut ekranu](image.png)
+
 ## Technologie
 
 - Python
